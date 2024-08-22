@@ -1,1 +1,1 @@
-print("hello world, this is kanika naik")
+pint("hello world, this is kanika naik")
